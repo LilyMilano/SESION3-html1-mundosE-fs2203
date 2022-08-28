@@ -1,0 +1,18 @@
+p{
+            width: 1300px;
+}
+h1{
+    color: darkblue;
+}
+.text-special{
+    color:red;
+    font-weight: bold;
+}
+.box{
+    width: auto;
+    height: auto;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 8px;
+}
